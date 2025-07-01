@@ -1,0 +1,16 @@
+# Streamlit-specific files
+.streamlit/secrets.toml
+
+# Python virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# Local data and cache files
+user_data.db
+faiss_index/
+uploaded_files/
+
+# IDE/Editor-specific files
+.vscode/
+.idea/
